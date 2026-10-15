@@ -137,7 +137,7 @@ chooses via the Storage Access Framework; no storage permission is requested.
 
 ## 👨‍💻 Author
 
-**Kishore** — Mechanical engineer turned software developer, building practical apps for everyday problems in Tamil Nadu and India.
+**Kishore** — B.Tech Computer Science · Software developer building practical apps for everyday problems in Tamil Nadu and India.
 
 - GitHub: [@joker7866](https://github.com/joker7866)
 
