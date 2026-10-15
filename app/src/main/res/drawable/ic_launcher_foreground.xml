@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- HomeBasket mark: a grocery basket with an orange and a leaf. Content kept inside the 66dp safe zone. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Handle -->
+    <path
+        android:pathData="M37,52 C37,30 71,30 71,52"
+        android:strokeWidth="5"
+        android:strokeColor="#0C3B2E"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+    <!-- Orange -->
+    <path
+        android:fillColor="#FFBA00"
+        android:pathData="M44,46 m-8,0 a8,8 0,1 1,16 0 a8,8 0,1 1,-16 0" />
+    <!-- Leaf -->
+    <path
+        android:fillColor="#6D9773"
+        android:pathData="M56,48 C55,38 62,31 73,30 C74,41 67,48 56,48 Z" />
+    <!-- Basket body -->
+    <path
+        android:fillColor="#0C3B2E"
+        android:pathData="M27,49 L81,49 Q84,49 83.4,52 L76,80 Q75,84 71,84 L37,84 Q33,84 32,80 L24.6,52 Q24,49 27,49 Z" />
+    <!-- Weave -->
+    <path
+        android:fillColor="#E8F5EB"
+        android:pathData="M31,59 L77,59 L76.2,62 L31.8,62 Z M33.4,69 L74.6,69 L73.8,72 L34.2,72 Z" />
+</vector>
